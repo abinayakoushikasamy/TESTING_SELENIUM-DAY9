@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="methods" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.test3.NewTest2"/>
+    </classes>
+  </test> <!-- Test -->
+    <tese name="Test">
+  <classes>
+  <class name="com.test3.NewTest2"/>
+  </classes>
+  </test> <!--Test-->
+</suite> <!-- Suite -->
+  
+
